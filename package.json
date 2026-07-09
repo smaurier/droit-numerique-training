@@ -1,0 +1,17 @@
+{
+  "name": "droit-numerique-course",
+  "version": "1.0.0",
+  "description": "Droit du numérique pour développeurs : RGPD, consentement/cookies, droits des personnes, DPIA, sous-traitants, CGU/DSA, propriété intellectuelle, accessibilité légale (principes, pas conseil juridique)",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
