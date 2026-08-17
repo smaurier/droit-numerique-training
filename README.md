@@ -1,5 +1,9 @@
 # 23 — Droit du numérique pour développeurs
 
+![VitePress](https://img.shields.io/badge/-VitePress-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+[![fullstack-autotraining](https://img.shields.io/badge/curriculum-fullstack--autotraining-4C1?style=flat-square)](https://github.com/smaurier/fullstack-autotraining)
+
 > **Prérequis** : NestJS + AWS + Stripe. À faire avant beta TribuZen.
 
 Cours court. Objectif : savoir de quoi tu parles quand on te parle de RGPD, DPA, CGU, DPIA. Ce n'est pas un cours de droit — c'est un cours de dev qui sait ce qu'il signe et ce qu'il construit.
