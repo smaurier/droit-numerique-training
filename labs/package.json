@@ -1,0 +1,20 @@
+{
+  "name": "droit-numerique-labs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Oracles exécutables des labs Droit numérique (règle : un lab = un geste métier complet). Le dev propose et remonte, il ne tranche jamais seul — vérifié par les tests, pas par une conviction.",
+  "type": "module",
+  "scripts": {
+    "lab:01": "vitest run --root lab-01-checklist-rgpd-tribuzen",
+    "solution:01": "vitest run --root lab-01-checklist-rgpd-tribuzen --config vitest.solution.config.ts"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.0",
+    "vitest": "5.0.1"
+  }
+}
