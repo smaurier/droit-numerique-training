@@ -259,4 +259,4 @@ Consentir aux CGU couvre-t-il le consentement aux cookies ?|Non, les deux sont j
 
 ## Pont vers le lab
 
-> Lab associé : `labs/lab-02-consentement-cookies-et-traceurs/README.md`. Audit des traceurs de TribuZen + conception d'un bandeau conforme (analyse et décision argumentée, pas de code lourd). Grille de conformité + coach + variante J+30.
+> Fiche associée : `labs/fiche-02-consentement-cookies-et-traceurs/README.md`. Audit des traceurs de TribuZen + conception d'un bandeau conforme (analyse et décision argumentée, pas de code lourd). Grille de conformité + coach + variante J+30.

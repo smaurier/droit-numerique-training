@@ -296,4 +296,4 @@ La conformité obtenue au lancement est-elle définitive ?|Non : c'est un proces
 
 ## Pont vers le lab
 
-> Lab associé : `labs/lab-08-accessibilite-legale-et-conformite/README.md`. Capstone : produire la **checklist de conformité globale de TribuZen « avant lancement »** intégrant les modules 00-07 + l'accessibilité, avec la colonne **« qui décide : dev / juriste / DPO »**. Analyse et décision argumentée — **pas de code**, feedback coach en session.
+> Fiche associée : `labs/fiche-08-accessibilite-legale-et-conformite/README.md`. Capstone : produire la **checklist de conformité globale de TribuZen « avant lancement »** intégrant les modules 00-07 + l'accessibilité, avec la colonne **« qui décide : dev / juriste / DPO »**. Analyse et décision argumentée — **pas de code**, feedback coach en session.

@@ -220,4 +220,4 @@ Pourquoi TribuZen est-il concerné par une DPIA ?|Il traite des données de mine
 
 ## Pont vers le lab
 
-> Lab associé : `labs/lab-04-dpia-analyse-impact/README.md`. Tu amorces la DPIA de la feature « Sorties » de TribuZen (données de mineurs + géolocalisation) : description du traitement, analyse de risques et mesures — **aucun code**. Corrigé commenté, grille, coach ≥ 3 relances, variante J+30.
+> Fiche associée : `labs/fiche-04-dpia-analyse-impact/README.md`. Tu amorces la DPIA de la feature « Sorties » de TribuZen (données de mineurs + géolocalisation) : description du traitement, analyse de risques et mesures — **aucun code**. Corrigé commenté, grille, coach ≥ 3 relances, variante J+30.

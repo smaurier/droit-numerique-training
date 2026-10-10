@@ -262,4 +262,4 @@ Quelle est la différence entre l'« hébergeur » des mentions légales et la �
 
 ## Pont vers le lab
 
-> Lab associé : `labs/lab-06-cgu-mentions-et-obligations-plateforme/README.md`. Analyse de conformité : lister les mentions légales obligatoires de TribuZen et les points DSA / mineurs applicables. Analyse et décision argumentée — pas de code, feedback coach en session.
+> Fiche associée : `labs/fiche-06-cgu-mentions-et-obligations-plateforme/README.md`. Analyse de conformité : lister les mentions légales obligatoires de TribuZen et les points DSA / mineurs applicables. Analyse et décision argumentée — pas de code, feedback coach en session.

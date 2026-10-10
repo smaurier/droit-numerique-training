@@ -294,4 +294,4 @@ Comment traiter une donnée de santé (allergie, diagnostic) dans TribuZen ?|Don
 
 ## Pont vers le lab
 
-> Lab associé : `labs/lab-01-rgpd-reflexes-developpeur/README.md`. Analyse de conformité : classer les données de TribuZen par base légale et repérer les données sensibles / mineurs. Analyse et décision argumentée — pas de code, feedback coach en session.
+> Fiche associée : `labs/fiche-01-rgpd-reflexes-developpeur/README.md`. Analyse de conformité : classer les données de TribuZen par base légale et repérer les données sensibles / mineurs. Analyse et décision argumentée — pas de code, feedback coach en session.

@@ -233,4 +233,4 @@ Où finit la responsabilité du développeur ?|À la frontière de la décision 
 
 ## Pont vers le lab
 
-> Lab associé : `labs/lab-00-introduction-au-droit-du-numerique/README.md`. Cartographier les obligations qui touchent TribuZen et décider *qui tranche quoi* (dev vs juriste/DPO) — analyse et checklist, pas de code.
+> Fiche associée : `labs/fiche-00-introduction-au-droit-du-numerique/README.md`. Cartographier les obligations qui touchent TribuZen et décider *qui tranche quoi* (dev vs juriste/DPO) — analyse et checklist, pas de code.

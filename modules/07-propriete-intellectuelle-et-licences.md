@@ -258,4 +258,4 @@ Comment auditer les licences des dépendances d'un projet Node ?|Avec license-ch
 
 ## Pont vers le lab
 
-> Lab associé : `labs/lab-07-propriete-intellectuelle-et-licences/README.md`. Audit des licences des dépendances de TribuZen + décision argumentée sur la licence du projet. Analyse et décision, pas de code de production — feedback coach en session.
+> Fiche associée : `labs/fiche-07-propriete-intellectuelle-et-licences/README.md`. Audit des licences des dépendances de TribuZen + décision argumentée sur la licence du projet. Analyse et décision, pas de code de production — feedback coach en session.

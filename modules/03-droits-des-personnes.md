@@ -274,4 +274,4 @@ Qui décide du droit (périmètre, refus, délai exact) : le dev ou le juriste/D
 
 ## Pont vers le lab
 
-> Lab associé : `labs/lab-03-droits-des-personnes/README.md`. Concevoir (analyse + pseudo-conception, pas d'impl complète) le parcours « supprimer mon compte » et « exporter mes données » de TribuZen, conforme aux droits des personnes — grille + coach + variante J+30, disclaimer et FLAG-REVIEW inclus.
+> Fiche associée : `labs/fiche-03-droits-des-personnes/README.md`. Concevoir (analyse + pseudo-conception, pas d'impl complète) le parcours « supprimer mon compte » et « exporter mes données » de TribuZen, conforme aux droits des personnes — grille + coach + variante J+30, disclaimer et FLAG-REVIEW inclus.

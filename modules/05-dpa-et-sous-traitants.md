@@ -266,4 +266,4 @@ Que contient au minimum un registre des sous-traitants ?|Par service : finalité
 
 ## Pont vers le lab
 
-> Lab associé : `labs/lab-05-dpa-et-sous-traitants/README.md`. Cartographier les sous-traitants de TribuZen (registre) et dérouler la checklist avant d'intégrer un nouveau service. Analyse et décision argumentée — pas de code, feedback coach en session.
+> Fiche associée : `labs/fiche-05-dpa-et-sous-traitants/README.md`. Cartographier les sous-traitants de TribuZen (registre) et dérouler la checklist avant d'intégrer un nouveau service. Analyse et décision argumentée — pas de code, feedback coach en session.
