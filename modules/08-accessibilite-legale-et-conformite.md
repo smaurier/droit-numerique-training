@@ -18,7 +18,14 @@ last-reviewed: 2026-07
 
 > **⚠️ Ceci n'est PAS un conseil juridique.** Ce module — dernier du cours — donne des **principes et des réflexes de développeur** pour rendre un produit accessible et pour **assembler** une checklist de conformité. Il ne remplace ni un **audit d'accessibilité** par un expert, ni l'analyse d'un **juriste, d'un DPO ou d'un avocat**. Aucun seuil, taux, article ou date cité ici n'est une **vérité figée et actionnable** : le droit évolue. Les sources qui font foi sont **[accessibilite.numerique.gouv.fr](https://accessibilite.numerique.gouv.fr)** (RGAA, obligations, déclaration), **[legifrance.gouv.fr](https://www.legifrance.gouv.fr)** (loi 2005-102) et **[cnil.fr](https://www.cnil.fr)** (RGPD). Toute décision d'assujettissement ou de conformité se **valide avec un expert**.
 
-# Accessibilité légale et conformité — la checklist finale de TribuZen
+# Accessibilité légale et conformité
+
+> 📐 **Renvoi réciproque avec le cours 25 HTML & CSS.** Ce module est le propriétaire du
+> **cadre légal** : obligations, périmètre, déclaration de conformité, sanctions, taux de
+> conformité à publier. Les **critères techniques** et leur mise en œuvre sont au cours 25, qui
+> en est la source unique du curriculum, et le module 00 § 4 bis y résume la chaîne WCAG, RGAA
+> et European Accessibility Act.
+ — la checklist finale de TribuZen
 
 > **Outcomes — tu sauras FAIRE :** situer le cadre légal de l'accessibilité (RGAA, loi 2005, EAA) et énoncer *qui est concerné* en principe, distinguer les trois états de conformité et le contenu d'une déclaration d'accessibilité, séparer ce que le dev produit de ce qui relève d'un expert, et **assembler la checklist de conformité globale de TribuZen** (modules 00-07) avant lancement.
 > **Difficulté :** :star::star::star:
